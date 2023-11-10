@@ -1,8 +1,5 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=transparent&fontColor=6495ed&text=Welcome&height=150&fontSize=60&desc=jinhyeonkyu%20Github%20&descAlignY=75&descAlign=60)
-<br></br>
-
 <h2>💡 About Me  </h2>
 
 <h>1️⃣ 끊임없이 탐구하고 지속적으로 성장하는 개발자가 되겠습니다 </b>.  <br></br></h>
