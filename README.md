@@ -19,7 +19,7 @@
 | 기간 | 내용 | 역할 |
 | --- | --- | ---|
 | 2023.08 ~ 2023.09| <a href="https://github.com/wwishh/Model1Project">Jeju하다</a> | 나만의 코스 기능 구현 및 백엔드 개발, DB설계 |
-| 2023.11 ~ 2023.12| <a href="#">4B</a> |  중고상품 검색, 결제 기능 구현 및 백엔드 개발, DB설계  |
+| 2023.11 ~ 2023.12| <a href="https://github.com/wwishh/SpringBoot_Project">4B</a> |  중고상품 검색, 상품 디테일 페이지, 회원 등급 설정, 결제 기능 구현 및 백엔드 개발, DB설계  |
 
 
 
